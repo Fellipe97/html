@@ -2,13 +2,17 @@
     Tag vázias são aquelas que não tem a necessidade de fecha-las.
     Atributos são as informações extras ou configurações da tag, por exmplo 
     <img src="" alt=""> é tudo configuração da imagem.
+    
+    Atributos booleanos não possuem a necessidade de possuir um conteúdo, 
+    por exemplo a utilização do Disable, impossibilidando a pessoa a escrever no input:
+    <input type="text" disabled>
 -->
 
 <img src="eu.jpg" alt="">
 
 <!--
     Caso não tenha imagem ou esteja errado o nome/extensão
-    o editor de código vai utilizar essa parte alt=""
+    o editor de código vai utilizar essa parte alt="texto alternativo,aqui!"
     para imprimir o texto alternativo que vc digitou nele.
 
     OBS:Para que vc consiga imprimir a imagem devera seguir o passo a passo:
