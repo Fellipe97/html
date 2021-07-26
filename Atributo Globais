@@ -1,0 +1,78 @@
+<!--
+    Atibutos Globais mais utilizados
+    
+    - class
+    - contenteditable
+    - data-*
+    - hidden 
+    - id
+    - style
+    - tabindex
+    - title
+-->
+
+<div class="carrinho" contenteditable="true" title="Altere o meu conteúdo!">
+    conteudo1
+</div>
+
+<div class="carrinho">
+    conteudo2
+</div>
+
+<div class="carrinho" hidden>
+    conteudo3
+</div>
+
+<div class="carrinho" style="color:aquamarine" title="Que cor linda!">
+    conteudo4
+</div>
+
+
+
+<div tabindex="2">
+    conteudo Tabindex2
+</div>
+<div tabindex="3">
+    conteudo Tabindex3
+</div>
+<div tabindex="1">
+    conteudo Tabindex1
+</div>
+
+
+<!-- 
+    class é utilizado mais para aplicar estilo na pagina (CSS), classificar e 
+    para utilização no javaScript.
+    Tenho repósitorio para o CSS e javascript mas continue com essa trilha de HTML 
+    para poder ir para proxima etapa!!
+-->
+
+<!-- 
+    contenteditable="true", vc consegue alterar o conteúdo da class.
+    Clique no conteudeo e tente alterar!
+-->
+
+<!-- 
+    hidden, esconde o conteúdo
+-->
+
+<!-- 
+    style, estilo mas normalmente não é utilizado diretamente na tag
+-->
+
+<!-- 
+    tabindex, se clicar no conteudo tabindex = 1 e depois clicar no tab ele 
+    vai selecionar o seguinte conteudo do tabindex.Cada vez que apertar o tab
+    vai ficar selecionado o seguinte tabindex até acabar.
+-->
+
+<!-- 
+    title, se descansar o mouse no conteudo que possui essa tag irá aparecer 
+    o texto que vc pré definiu. 
+-->
+
+<!-- 
+    Quer aprender mais sobre esses e mais atributos globais?
+    Entre nesse site: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes
+    Obs: Não estou ganhando nada com isso, é só uma indicação mesmo!!
+-->
