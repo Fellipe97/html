@@ -2,7 +2,7 @@
 
 Tudo que aprendi sobre HTML desde o começo até os dias atuais,abortando tais assuntos:
 
-- Tamanho da fonte;
+- Como fazer comentários no HTML;
 - 
 
 
