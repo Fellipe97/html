@@ -5,6 +5,7 @@ Tudo que aprendi sobre HTML desde o começo até os dias atuais,abortando tais a
 - Como fazer comentários ;
 - Titulo (h1,h2,h3 e h4);
 - Como introduzir uma imagem e um pouco de teoria(Atributo);
+- Atributos Globais;
 - 
 
 
