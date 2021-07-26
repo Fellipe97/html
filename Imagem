@@ -1,0 +1,19 @@
+<!--
+    Tag vázias são aquelas que não tem a necessidade de fecha-las.
+    Atributos são as informações extras ou configurações da tag, por exmplo 
+    <img src="" alt=""> é tudo configuração da imagem.
+-->
+
+<img src="eu.jpg" alt="">
+
+<!--
+    Caso não tenha imagem ou esteja errado o nome/extensão
+    o editor de código vai utilizar essa parte alt=""
+    para imprimir o texto alternativo que vc digitou nele.
+
+    OBS:Para que vc consiga imprimir a imagem devera seguir o passo a passo:
+    - Colocar a imagem no mesmo diretorio que está o código;
+    - saber qual a extensão da imagem (png,jpg,entre outros);
+    - saber o nome;
+    -itroduzir essas infaormações no src="AQUI"
+-->
