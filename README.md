@@ -1,6 +1,6 @@
 # html
 
-Tudo que aprendi sobre HTML desde o começo até os dias atuais,abortando tais assuntos:
+Tudo que aprendi sobre HTML desde o começo até os dias atuais,abortando tais assuntos(na ordem de aprendizado):
 
 - Como fazer comentários no HTML;
 - 
