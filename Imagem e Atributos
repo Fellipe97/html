@@ -1,6 +1,6 @@
 <!--
     Tag vázias são aquelas que não tem a necessidade de fecha-las.
-    Atributos são as informações extras ou configurações da tag, por exmplo 
+    Atributos são as informações extras ou configurações da tag, por exemplo 
     <img src="" alt=""> é tudo configuração da imagem.
     
     Atributos booleanos não possuem a necessidade de possuir um conteúdo, 
