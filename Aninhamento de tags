@@ -1,0 +1,33 @@
+
+<!--
+    Aninhamento de tags
+    
+    - Fluxo
+    - Hierarquia
+    - Posicionamento dos elementos
+
+-->
+
+<p>
+    <br/>Vou <em>escrever</em> um parágrafo, seguindo o fluxo...
+</p>
+
+<p>
+    Mostrar de acordo com a aparição das tags!!
+    <p>Quebrou linha</p>
+    <br />outra forma de quebrar
+</p>
+
+<!-- 
+    Podemos vê que é possível colocar uma tag dentro da outra, mas não podemos 
+    esquecer de sempre fechar a tag.
+
+    <em> </em> = coloca o texto dentro dele em italico;
+    <br/> = qubra linha;
+    <p> </p>= paragráfio e qubra linha automaticamente.
+
+    Fluxo = cada tag é lida de acordo com a sua aparição. 
+
+    Posicionamento dos elementos = cada tag tem suas peculiaridades,
+    por exemplo, se quebra ou não a linha.  
+-->
