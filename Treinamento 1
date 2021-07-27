@@ -1,0 +1,25 @@
+<!--
+    Treinamento 1
+
+    Escrever 2 parágrafos, dando ênfase
+    e importância para algumas palavras,
+    e adicione um link de saiba mais.
+
+    - use a tag em para ênfase;
+    - use a tag strong para importância;
+    - o link pode levar para o google.
+
+    Faça essa tarefa sem vê o gabarito!!
+-->
+
+<p>
+    <h1>Primeiro treinamendo!</h1>
+</p>
+<p>
+    <h2><em>Aprendi <strong>muita coisa</strong>, bora entrar no google !!</em></h2>
+    <a href="https://www.google.com.br/">Saiba mais</a>
+</p>
+
+<!--
+    <strong> </strong> ou <b> </b> = colocar o texto em negrito
+-->
