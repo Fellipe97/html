@@ -19,4 +19,4 @@ Baseado nos cursos:
 
 Servira como uma trilha de aprendizagem para as pessoas que estejam interessadas a aprender desenvolvimento web!
 
-Bons estudos!!
+Bons estudos!!!
