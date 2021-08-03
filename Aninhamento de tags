@@ -15,7 +15,7 @@
 <p>
     Mostrar de acordo com a aparição das tags!!
     <p>Quebrou linha</p>
-    <br />outra forma de quebrar
+    <br />&nbsp; &nbsp; &nbsp; &nbsp; outra forma de quebrar
 </p>
 
 <!-- 
@@ -24,7 +24,8 @@
 
     <em> </em> = coloca o texto dentro dele em italico;
     <br/> = qubra linha;
-    <p> </p>= paragráfio e qubra linha automaticamente.
+    <p> </p>= paragráfio e qubra linha automaticamente;
+    &nbsp; = espaço de linha.
 
     Fluxo = cada tag é lida de acordo com a sua aparição. 
 
