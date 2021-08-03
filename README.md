@@ -8,6 +8,7 @@ Tudo que aprendi sobre HTML desde o começo até os dias atuais,abortando tais a
 - Atributos Globais;
 - Aninhamento de tags;
 - Treinamento 1;
+- Caracteres Reservados;
 - 
 
 
